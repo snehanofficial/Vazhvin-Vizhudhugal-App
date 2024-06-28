@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Food Sources</h1>
+<div class="row">
+    {% for source in food_sources %}
+    <div class="col-md-4">
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title">{{ source.name }}</h5>
+                <p class="card-text">
+                    <strong>Location:</strong> {{ source.location }}<br>
+                    <strong>Type:</strong> {{ source.type }}<br>
+                    <strong>Availability:</strong> {{ source.availability }}
+                </p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

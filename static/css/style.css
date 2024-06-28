@@ -1,0 +1,30 @@
+body {
+        font-family: Arial, sans-serif;
+            margin: 20px;
+                background-color: #f8f9fa;
+                }
+
+                .navbar {
+                        margin-bottom: 20px;
+                        }
+
+                        .card {
+                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                                }
+
+                                .card-title {
+                                        font-weight: bold;
+                                            font-size: 1.2rem;
+                                }
+
+                                .card-text {
+                                    font-size: 0.9rem;
+                                    }
+
+                                    .form-group {
+                                            margin-bottom: 1rem;
+                                            }
+
+                                            .alert {
+                                                margin-top: 1rem;
+                                                }
