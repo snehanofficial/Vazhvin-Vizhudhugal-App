@@ -79,6 +79,8 @@ Features:
 For actual design, we might use tools like Adobe XD, Figma, or Sketch to create mockups of these features.
 
 
+# Additional features and ideas
+
 Here are additional features and ideas that can help differentiate your app and make it a more effective tool for food donation and waste management:
 
 ### 1. **Community Engagement and Volunteering**
@@ -123,7 +125,7 @@ Here are additional features and ideas that can help differentiate your app and 
 These features will not only make your app more versatile and effective but also ensure that it stands out in a crowded market by addressing unique challenges and fostering stronger community engagement.
 
 
-### Section 8 Company Overview
+# Section 8 Company Overview
 
 A Section 8 company in India is a special type of non-profit organization formed to promote charitable objectives such as social welfare, education, religion, charity, environmental protection, and more. It operates under the Companies Act, 2013, and its profits, if any, must be used to promote the company’s objectives and cannot be distributed as dividends.
 
